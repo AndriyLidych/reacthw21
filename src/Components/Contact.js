@@ -71,7 +71,7 @@ class Contact extends Component {
                         </input>
                     </div>
                     <div>
-                        <label htmlFor='not__specified'> Не вказано </label>
+                        <label htmlFor='not__specified'> Не вказанооо </label>
                         <input
                             id='not__specified'
                             type={'checkbox'}
